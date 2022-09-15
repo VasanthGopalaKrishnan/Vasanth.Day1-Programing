@@ -27,8 +27,12 @@ public class TShirtOrders {
 
             this.size = particularsize;
             this.colour = particularcolour;
-
-            System.out.println("I need " + particularcount + " T-Shirts with " + particularsize + " sizes in " + particularcolour + " colour");
+            if(i<=counts){
+                    System.out.println("I need " + particularcount + " T-Shirts with " + particularsize + " sizes in " + particularcolour + " colour");
+            }else{
+                System.out.println("Order reached the limit");
+                i=i-particularcount;
+            }
         }
         this.count =add;
     }
