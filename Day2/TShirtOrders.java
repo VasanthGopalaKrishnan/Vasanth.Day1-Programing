@@ -2,6 +2,11 @@ package Day2;
 
 import java.util.Scanner;
 
+// Scanner class is used to receive the input from the user and return it to the machine.
+// Constructor- constructor and the class name must be same, it does not return anything, and the constructor does not have any access specifiers.
+// The this keyword refers to the current object in a method or constructor.
+// By using static methods we dont have to create a object while its present within a class.
+
 public class TShirtOrders {
 
 
