@@ -1,7 +1,8 @@
 package Day1;
 
 
-//By using the extends keyword we can access one class property from another class
+// By using the extends keyword we can access one class property from another class
+// Execution gets started in the main method
 
 public class NattuSpeaker extends Speaker{
 
