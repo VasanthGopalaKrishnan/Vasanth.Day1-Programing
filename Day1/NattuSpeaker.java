@@ -3,6 +3,7 @@ package Day1;
 
 // By using the extends keyword we can access one class property from another class
 // Execution gets started in the main method
+// public is gloabal access specifier
 
 public class NattuSpeaker extends Speaker{
 
