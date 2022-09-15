@@ -1,5 +1,8 @@
 package Day1;
 
+
+//By using the extends keyword we can access one class property from another class
+
 public class NattuSpeaker extends Speaker{
 
     public static void main(String[] args) {
