@@ -1,0 +1,88 @@
+
+1. What do you know about JVM, JRE and JDK?
+
+2. Is the JRE platform dependent or independent?
+
+3. Which are the reference types in java?
+
+4. Can you write a java application without the main function? If yes, how?
+
+5 . What will happen, if we call the main method in the static block?
+
+6. Which are the rules to overload method in sub-class?
+
+7. What is the difference between final, finally and finalise?
+
+8. What is the difference between checked and unchecked exception?
+
+9. What is exception chaining?
+
+10. What is the difference between throw and throws?
+
+11. In which case, finally block doesn’t execute?
+
+12. What do you know about final method?
+
+13. What is the difference between abstract class and interface?
+
+14. What is fragile base class problem and how can we overcome it?
+
+15. Why java does not support multiple implementation inheritance?
+
+16. What is a marker interface? List the name of some marker interfaces.
+
+17. What is the significance of the marker interface?
+
+18. What is the difference between String and StringBuffer?
+
+19. What is the difference between StringBuffer and StringBuilder?
+
+20. How can you check whether string is palindrome or not?
+
+21. Can we write multiple public classes in a single .java file? If not why?
+
+22. Which two techniques allow us to create new instance from existing one?
+
+23. What is bytecode?
+
+24. Which features of java makes it platform dependant?
+
+25. What is thread?
+
+26. Which are the types of thread? What is the difference between them?
+
+27. Explain life cycle of thread?
+
+28. What is race condition? How can we overcome it?
+
+29. What is synchronization? How can we achieve it?
+
+30. How can we share object between the threads?
+
+31. Why wait, notify and notifyall methods belongs to Object class instead of Thread class?
+
+32. What do you know about volatile keyword in java?
+
+33. What is the difference between Thread. Sleep and Thread.yield?
+
+34. What is deadlock? How can we avoid it?
+
+35. Why thread based multitasking is faster than process based multitasking?
+
+36. When we should use Thread class and Runnable interface to create thread?
+
+37. What is wrapper class? What is need of it?
+
+38. What are the various access specifiers for Java classes?
+
+39. What's the purpose of Static methods and static variables?
+
+40. What is data encapsulation and what's its significance?
+
+41. What are Loops in Java? What are three types of loops?
+
+42. Can we overload a static method in Java
+
+43. Can we override the static method in Java
+
+44. Can we prevent overriding a method without using the final modifier
